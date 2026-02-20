@@ -1,8 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/amgen-eds-ue/:/",
+    "/content/amgen-eds-ue/metadata:/metadata.json",
+    "/content/amgen-eds-ue/configuration:/.helix/config.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/amgen-eds-ue/"
   ]
 }
