@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p148597-e1937574.adobeaemcloud.com/bin/franklin.delivery/SudarsanPradeepKumar/amgen-eds-ue/main"
+    url: "https://author-p148597-e1937574.adobeaemcloud.com/bin/franklin.delivery/sudarsanpradeepkumar/amgen-eds-ue/main"
     type: "markup"
     suffix: ".html"
